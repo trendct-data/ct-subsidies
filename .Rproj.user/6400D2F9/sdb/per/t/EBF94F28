@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1456838877876.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EBF94F28",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1456838877876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5los6ir1f2",
+        "caption" : "company_water",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=company_water&cache_key=5los6ir1f2",
+        "displayedObservations" : "9",
+        "environment" : "",
+        "object" : "company_water",
+        "totalObservations" : "9",
+        "variables" : "2"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

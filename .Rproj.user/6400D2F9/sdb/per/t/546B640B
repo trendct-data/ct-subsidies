@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1455683760438.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "546B640B",
+    "lastKnownWriteTime" : 4317171512,
+    "last_content_update" : 1455683760438,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ws55rxftcu",
+        "caption" : "by_townies2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=by_townies2&cache_key=ws55rxftcu",
+        "displayedObservations" : 150,
+        "environment" : "",
+        "object" : "by_townies2",
+        "totalObservations" : 150,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

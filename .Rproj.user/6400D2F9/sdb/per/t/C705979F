@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1456838379065.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C705979F",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1456838379065,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "qvc8q0yqc1",
+        "caption" : "stam",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=stam&cache_key=qvc8q0yqc1",
+        "displayedObservations" : 14,
+        "environment" : "",
+        "object" : "stam",
+        "totalObservations" : 14,
+        "variables" : 1
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
